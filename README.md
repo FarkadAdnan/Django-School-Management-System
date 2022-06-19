@@ -1,3 +1,7 @@
+* facebook : https://www.facebook.com/profile.php?id=100002145048612
+* instagram:  https://www.instagram.com/farkadadnan/
+* linkedin : https://www.linkedin.com/in/farkad-adnan-499972121/
+
 # Django-School-Management-System
 
 This app is meant to be used by school manager to manage their school records:
